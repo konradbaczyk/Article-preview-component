@@ -7,5 +7,5 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Github with code](https://github.com/konradbaczyk/Testimonials-grid-section)
-- Live site URL: [Live site](https://konradbaczyk.github.io/Testimonials-grid-section/)
+- Solution URL: [Github with code](https://github.com/konradbaczyk/Article-preview-component)
+- Live site URL: [Live site](https://konradbaczyk.github.io/Article-preview-component/)
